@@ -1,4 +1,8 @@
-![Banner](./banner.png)
+<p align="center">
+  <img src="./banner.png" />
+</p>
+
+
 ## 👋 Olá, eu sou a Aline!
 
 🎯 Em transição de carreira para a área de Dados  
