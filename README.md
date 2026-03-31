@@ -24,14 +24,14 @@
 - Excel  
 - Power BI  
 - SQL  
-- Tableau  
+  
 
 ---
 
 ## 📂 Projetos
 
 🔹 Em breve estarei compartilhando meus projetos aqui!  
-(Análises de dados, dashboards e estudos práticos)
+   (Análises de dados, dashboards e estudos práticos)
 
 ---
 
