@@ -1,10 +1,36 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7C3AED&height=120&section=header"/>
-Meu nome é Aline, tenho 30 anos, estou em transição de carreira para área de dados. Atualmente estou fazendo curso de Ciência de Dados na EBAC.
+## 👋 Olá, eu sou a Aline!
 
-Minhas habilidades são:
+🎯 Em transição de carreira para a área de Dados  
+📊 Estudando Ciência de Dados na EBAC  
+💡 Interessada em transformar dados em insights para tomada de decisão  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+---
 
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+## 🚀 Habilidades
 
-![Power BI](https://img.shields.io/badge/-PowerBI-%23F2C811?style=flat&logo=powerbi&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+
+---
+
+## 🛠️ Ferramentas
+
+- Excel  
+- Power BI  
+- SQL  
+- Tableau  
+
+---
+
+## 📂 Projetos
+
+🔹 Em breve estarei compartilhando meus projetos aqui!  
+(Análises de dados, dashboards e estudos práticos)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (https://www.linkedin.com/in/aline-lopes-68b331104/)
+
