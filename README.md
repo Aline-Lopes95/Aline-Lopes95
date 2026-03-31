@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7C3AED&height=120&section=header"/>
-
 Meu nome é Aline, tenho 30 anos, estou em transição de carreira para área de dados. Atualmente estou fazendo curso de Ciência de Dados na EBAC.
 
 Minhas habilidades são:
