@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 ## 👋 Olá, eu sou a Aline!
 
 🎯 Em transição de carreira para a área de Dados  
