@@ -30,8 +30,7 @@
 
 ## 📂 Projetos
 
-🔹 Em breve estarei compartilhando meus projetos aqui!  
-   (Análises de dados, dashboards e estudos práticos)
+🔹 
 
 ---
 
