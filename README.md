@@ -23,7 +23,8 @@
 
 - Excel  
 - Power BI  
-- SQL  
+- SQL
+- Python
   
 
 ---
